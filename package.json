@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SQL-JSON/SQL92-keywords.git"
+    "url": "git+https://github.com/fibo/SQL92-keywords.git"
   },
   "keywords": [
     "sql",
@@ -22,5 +22,5 @@
   "bugs": {
     "url": "https://github.com/SQL-JSON/SQL92-keywords/issues"
   },
-  "homepage": "https://github.com/SQL-JSON/SQL92-keywords#readme"
+  "homepage": "http://g14n.info/SQL92-keywords"
 }
