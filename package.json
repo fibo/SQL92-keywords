@@ -1,6 +1,6 @@
 {
   "name": "sql92-keywords",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "is the list of reserved words in SQL92 specification",
   "main": "index.json",
   "scripts": {
